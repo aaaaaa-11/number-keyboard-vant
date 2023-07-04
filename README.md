@@ -2,11 +2,17 @@
 基于vant做的虚拟键盘
 
 1. 默认类型
-![默认类型](./public/default.png)
+
+    ![默认类型](./public/default.png)
+
+
 2. 身份证
-![身份证](./public/idcard.png)
+
+    ![身份证](./public/idcard.png)
+
 3. 带右侧栏
-![带右侧栏](./public/sidebar.png)
+
+    ![带右侧栏](./public/sidebar.png)
 
 ## Project Setup
 
